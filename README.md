@@ -50,7 +50,7 @@ Api-Jugadores.n-m es una API REST diseñada para gestionar información sobre ju
   "name": "Alicia",
   "trofeosGanados": []
 }
-
+```
 ### Crear Trofeos
 
 ```json
@@ -59,3 +59,4 @@ Api-Jugadores.n-m es una API REST diseñada para gestionar información sobre ju
   "titulo": "Mejor Jugador",
   "descrip": "Otorgado al mejor jugador del torneo"
 }
+```
